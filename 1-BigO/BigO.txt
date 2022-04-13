@@ -1,0 +1,7 @@
+2^n -> exponencial
+n^3 -> cubic
+n^2 -> quadratic
+nlogn -> linearithmic
+n -> linear
+logn -> logarithmic
+1 -> constant

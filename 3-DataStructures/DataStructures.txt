@@ -1,0 +1,7 @@
+Traversing a data structure means: "visiting" or "touching" the elements of the structure, and doing something with the data. (Traversing is also sometimes called iterating over the data structure)
+-Insertion
+-Deletion
+-Traversal
+-Searching
+-Sorting
+-Access

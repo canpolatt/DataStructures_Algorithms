@@ -1,0 +1,11 @@
+1.Analytic Skills: How can you think through a problem and analyze things?
+2.Coding Skills: Do you code well?
+3.Technical Skills: Do you know the fundamentals?
+4.Communication Skills: Can you communicate well with others, with the team?
+
+Google Inteview: https://www.youtube.com/watch?v=XKu_SEDAykw
+
+- Clarification
+- Think out loud
+- Talk before you write
+- Test your solution
