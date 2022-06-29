@@ -4,7 +4,7 @@
 // 2 parameters - arrays - no size limit
 // return true or false
 
-//We can ask the inerviewer, is our goal here to be
+//We can ask the interviewer, is our goal here to be
 //as efficient as possible with our function?
 //What's more important to us is time or space complexity etc.
 
