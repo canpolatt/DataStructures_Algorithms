@@ -1,0 +1,35 @@
+A graph is simply a set of values that are related in a pairwise fashion. Connections between different nodes.
+- Each item is called a node or a vertex.
+- Nodes are connected with edges.
+
+Graphs ideal for cases where you're working with things that connect to other things.
+- Facebook uses it for their social network
+- Amazon uses it for their recommendation engines
+- Google Maps uses graphs for determining the shortest path
+
+Graphs compass things that we've used before, such as trees and linked lists.
+Linked lists are a type of tree and tree is a type of graph.
+
+
+-Directed (Twitter)
+-Undirected (Facebook)
+-Weighted
+-Unweighted
+
+-This sort of graphs(weighted-unweighted) are used a lot in calculating optimal paths.
+    -Google Maps would use a weighted graph to decide what is the shortest path for you get there.
+
+-Cyclic
+-Acyclic
+
+- When you have vertices connected in a circular fashion, it's called a cyclic. You can start and back to that original
+node versus acyclic you can't do that.
+
+Pros:
+-Relationships
+
+Cons:
+-Scaling is hard
+
+
+neo4j -> popular database that allows you to build really fast graph
