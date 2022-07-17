@@ -1,0 +1,5 @@
+/*
+Priority queues is a type of data where each element has a priority and elements with a higher priority are served before
+elements with lower priorities.
+
+ */

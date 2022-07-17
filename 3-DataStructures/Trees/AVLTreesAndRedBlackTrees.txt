@@ -1,0 +1,2 @@
+AVL Tree or a Red Black Tree automatically rebalances itself so that we don't have those edge
+cases where our balanced tree turns into a linear, unbalanced tree.
