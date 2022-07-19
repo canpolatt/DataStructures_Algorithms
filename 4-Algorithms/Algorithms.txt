@@ -1,0 +1,4 @@
+/*
+Algorithms allow us to use these data structures to perform actions on that data.
+Data structures + Algorithms = Program 
+ */
